@@ -1,0 +1,98 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    color: white;
+    font-size: 24px;
+    padding: 50px;
+}
+.top{
+    display: flex;
+    justify-content:space-between;
+    background-color:  #1f2937;
+    padding: 20px;
+    color:white;
+    height: 150px;
+    padding: 50px;
+    align-items: flex-end;
+}
+
+.top img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+
+}
+
+button{
+    padding: 5px 13px;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.left1{
+    width:400px;
+}
+
+.right a{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+  
+.info img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.text{
+    text-align: center;
+    font-size: 20px;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    height: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parent-blue{
+    color: white;
+    background-color: #3882f6;
+    font-size: 18px;
+    margin: 70px;
+    margin-top: 100px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.parent-blue button{
+    background-color: #3882f6;
+    color: white;
+    border-radius: 7px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid white;
+    margin-top: 30px;
+}
+
+.parent a:hover{
+    background-color: skyblue;
+}
+
+.parent a {
+    color: steelblue;
+}
+
+
